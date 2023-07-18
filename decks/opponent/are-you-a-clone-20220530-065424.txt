@@ -1,0 +1,115 @@
+1 Obeka, Brute Chronologist
+1 Alchemist's Gambit
+1 Apprentice Necromancer
+1 Avaricious Dragon
+1 Banshee of the Dread Choir
+1 Blood Crypt
+1 Bojuka Bog
+1 Broodbirth Viper
+1 Cauldron Dance
+1 Chandra, Flamecaller
+1 Command Beacon
+1 Command Tower
+1 Counterspell
+1 Crumbling Necropolis
+1 Curse of Obsession
+1 Cyclonic Rift
+1 Dawn of the Dead
+1 Day's Undoing
+1 Delina, Wild Mage
+1 Desolation
+1 Dimir Aqueduct
+1 Dimir Signet
+1 Discontinuity
+1 Dragonskull Summit
+1 Drowned Catacomb
+1 Exotic Orchard
+1 Feldon of the Third Path
+1 Felhide Spiritbinder
+1 Final Fortune
+1 Flamerush Rider
+1 Flameshadow Conjuring
+1 Frantic Search
+1 Freed from the Real
+1 Geier Reach Sanitarium
+1 Geyadrone Dihada
+1 Glorious End
+1 Gruesome Encore
+1 Hate Mirage
+1 Haunted Ridge
+1 Heat Shimmer
+1 Hellkite Courser
+1 Identity Thief
+1 Ilharg, the Raze-Boar
+3 Island
+1 Isochron Scepter
+1 Izzet Boilerworks
+1 Izzet Signet
+1 Kiki-Jiki, Mirror Breaker
+1 Last Chance
+1 Lotus Field
+1 Mimic Vat
+1 Minamo, School at Water's Edge
+1 Minion Reflector
+1 Mirage Mirror
+1 Mirage Phalanx
+1 Mirror March
+1 Mirror Mockery
+1 Mirrormade
+3 Mountain
+1 Mystic Sanctuary
+1 Negate
+1 Nightscape Familiar
+1 Psychic Vortex
+1 Puppeteer Clique
+1 Purphoros, Bronze-Blooded
+1 Rakdos Carnarium
+1 Rakdos Signet
+1 Reliquary Tower
+1 Rhystic Study
+1 Rionya, Fire Dancer
+1 Saheeli Rai
+1 Slave of Bolas
+1 Sneak Attack
+1 Sol Ring
+1 Splinter Twin
+1 Steam Vents
+1 Sulfur Falls
+1 Sundial of the Infinite
+1 Sunken Hollow
+3 Swamp
+1 Takenuma, Abandoned Mire
+1 Temple of Epiphany
+1 Terminate
+1 Thousand-Year Elixir
+1 Training Center
+1 Treacherous Urge
+1 Twinflame
+1 Underworld Breach
+1 Urborg, Tomb of Yawgmoth
+1 Voidwalk
+1 Wake to Slaughter
+1 Warrior's Oath
+1 Watery Grave
+1 Zara, Renegade Recruiter
+
+SIDEBOARD:
+1 Anger of the Gods
+1 Araumi of the Dead Tide
+1 Blade of Selves
+1 Coastline Marauders
+1 Etali, Primal Storm
+1 Fact or Fiction
+1 Fatestitcher
+1 Goryo's Vengeance
+1 Ideas Unbound
+1 Macabre Mockery
+1 Mana Geyser
+1 Mulldrifter
+1 Phyrexian Triniform
+1 Rakshasa Debaser
+1 Sedris, the Traitor King
+1 Sepulchral Primordial
+1 Solemn Simulacrum
+1 Whip of Erebos
+1 Windfall
