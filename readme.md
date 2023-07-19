@@ -38,5 +38,3 @@ Multiplayer support
 Animated visualization
 Contributing
 Contributions are welcome! Please open issues for feedback and PRs for improvements.
-
-Let me know if you would like any sections expanded or modified in this example README. I can also provide suggestions on structuring the Node.js implementation using LangChain.
